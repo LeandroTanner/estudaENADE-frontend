@@ -1,0 +1,69 @@
+
+.formulario{
+    width: 80%;
+    background-color: #D9DCD6;
+    padding: 1%;
+    margin-top: 5%;
+    border-radius: 5px;
+}
+
+.form-control.mx-auto{
+    background-color: #81C3D7;
+    font-weight: 500;
+}
+
+.Titulo{
+    text-align: center;
+    font-weight: 700;
+}
+
+.Subtitulo{
+    font-weight: 700;
+    font-size: 17px;
+}
+
+.btn-primary.btn-sm{
+    margin-bottom: 0.5rem;
+    font-size: 100%;
+    font-weight: 700;
+    text-align: center;
+    background-color: #3A7CA5;
+    border: #000;
+    transition: 0.5s;
+}
+
+.btn-primary.btn-sm:hover{
+    background-color: #3A7CA5;
+    scale: 1.01;
+}
+
+.btn-primary.btn-sm a{
+    color: white;
+}
+
+.btn-primary.btn-sm a:hover{
+    text-decoration: none;
+}
+
+.toggle-password {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
+
+  .form-group{
+    position: relative;
+  }
+
+  .toggle-password {
+    position: absolute;
+    top: 74%;
+    right: 10px;
+    transform: translateY(-50%);
+    cursor: pointer;
+    z-index: 1;
+}
+
+/*AQUI TERMINA O CONTEÚDO PRINCIPAL*/

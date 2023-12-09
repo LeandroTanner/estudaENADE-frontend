@@ -1,0 +1,96 @@
+
+h2{
+    background-color: #D9DCD6;
+    margin-top: 3%;
+    width: 90%;
+    text-align: center;
+    font-weight: 650;
+    border-radius: 5px;
+}
+
+.filtro.mx-auto{
+    background-color: #D9DCD6;
+    width: 90%;
+    border-radius: 5px;
+    padding: 0.5%;
+    text-align: center;
+}
+
+#pesquisar{
+    margin: 1%;
+    width: 80%;
+    background-color: #81C3D7;
+    border-radius: 5px;
+    color: white;
+    font-weight: 550;
+    border: 2px solid #3A7CA5;
+}
+
+.itens_filtro{
+    margin: 1%;
+    background-color: #81C3D7;
+    border-radius: 5px;
+    font-weight: 550;
+    border: 2px solid #3A7CA5;
+    width: 80%;
+}
+
+.botao_filtro{
+    width: 60%;
+    transition: 0.5s;
+    cursor: pointer;
+    background-color: #3A7CA5;
+    border: 2px solid #81C3D7;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.botao_filtro:hover{
+    scale: 1.02;
+}
+
+.card.mx-auto.my-3 {
+    width: 80%;
+    background-color: #D9DCD6;
+    display: flex;
+}
+
+.card-title {
+    font-weight: 700;
+    color: black;
+    text-align: center;
+}
+
+.card.conteudo.mx-auto{
+    background-color: #D9DCD6;
+    width: 80%;
+    margin: 2%;
+}
+
+.card-title{
+    font-weight: 700;
+}
+
+.card-text{
+    font-weight: 550;
+    text-align: justify;
+}
+
+.btn.mb-2{
+    background-color: #3A7CA5;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    transition: 0.5s;
+}
+
+.btn.mb-2:hover{
+    scale: 1.05;
+}
+
+.fa-regular.fa-bookmark,.fa-regular.fa-hand{
+    margin-left: 5%;
+}
+
+/*AQUI ACABA O CONTEUDO*/

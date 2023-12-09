@@ -1,0 +1,59 @@
+
+.card.mx-auto.my-3{
+    width: 80%;
+    background-color: #D9DCD6;
+    display: flex;
+}
+
+.card.mx-auto{
+    background-color: #D9DCD6;
+    width: 80%;
+}
+
+.card-header.d-flex.justify-content-between.align-items-center{
+    background-color: #D9DCD6;
+}
+
+.card-title{
+    font-weight: 700; /* Montserrat Bold */ 
+    color: black;
+    text-align: center;
+}
+
+.card-text{
+    font-weight: 500;
+    color: black;
+    text-align: justify;
+}
+
+.dadosCadastrados{
+    padding: 1%;
+    background-color: #D9DCD6;
+}
+
+.titulo{
+    font-weight: 700;
+}
+
+.dados{
+    background-color: #81C3D7;
+    border-radius: 3px;
+    font-weight: 500;
+}
+
+.btn-primary.btn-sm{
+    margin-bottom: 0.5rem;
+    font-size: 100%;
+    font-weight: 700;
+    text-align: center;
+    background-color: #3A7CA5;
+    border: #000;
+    transition: 0.5s;
+}
+
+.btn-primary.btn-sm:hover{
+    background-color: #3A7CA5;
+    scale: 1.01;
+}
+
+/*AQUI TERMINA O CONTEÚDO PRINCIPAL*/
