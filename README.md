@@ -1,10 +1,10 @@
-**-> EstudaEnade  **
+-> EstudaEnade  
 O EstudaEnade é um site desenvolvido como parte de um projeto multidisciplinar da faculdade (IFSP - Hortolândia). O objetivo do site é fornecer recursos relacionados ao Enade, uma prova conhecida no meio do ensino superior. O site inclui:  
 
 ° O EstudaEnade é um site que oferece provas e questões anteriores do Enade para auxiliar os alunos em seus estudos.  
 ° Além disso, o site apresenta um ranking de alunos com base nas pontuações obtidas nas questões, uma vez que os acertos implicam em ganho de pontos.  
 
-**-> Funcionalidades:  **
+-> Funcionalidades:  
 ° Provas e Questões: Os usuários podem acessar provas e questões anteriores do Enade.  
 ° Ranking de Alunos: O site exibe um ranking com os alunos que obtiveram as maiores pontuações nas questões.  
 
